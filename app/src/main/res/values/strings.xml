@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="view_playlist">View Playlist</string>
+    <string name="new_and_trending">New and trending</string>
+    <string name="weekly_top_15">Weekly top 15</string>
+    <string name="artist1">Artist 1</string>
+    <string name="recent_movies">Recent Movies</string>
+    <string name="browe_and_discover">Browse and Discover</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="launcher_message1">Get your favourite playlist.</string>
+    <string name="launcher_message2">See what\'s trending</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create an account</string>
+    <string name="activity_main_description">When user has successfully signed in, this will be served as the
+        main music player screen. The library used for checking the authentication for sign-in can
+        be an external library like :Foursquare Android O:Auth</string>
+    <string name="selected_list_string">Here, the corresponding activity will be shown-up which will
+        have the functionality to show the requested Playlist/Song. Also, here the user can still
+        see the "Now Playing" option so that she can play/pause the song as per her mood. And, if
+    she wants to go back to the previous menu, she can simply press the "Go Back Button", which
+    will take her to the "corresponding" menu(Here, the main music player menu).</string>
+    <string name="playlst_description">Here, we\'ll provide a way for applications to pass a newly created
+        or downloaded media file to the media scanner service. The media scanner service will read
+        metadata from the file and add the file to the media content provider. And for that the class
+    that we\'ll use will be: </string>
+    <string name="palylist_class">MediaScannerConnection</string>
+    <string name="sign_up_text1">there will be a proper activity to handle the registration process</string>
+    <string name="sign_up_text2">We can use an external library like, Foursquare Android O:Auth(Link to:
+        https://github.com/foursquare/foursquare-android-oauth ), to authenticate if the user
+ is granted permission to see the actual app content and use our music player.</string>
+</resources>
